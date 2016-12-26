@@ -1,0 +1,12 @@
+<resources>
+     <string name="app_name">pop红包助手</string>
+     <string name="accessibility_description">开启抢红包服务,请确认是否已允许接收QQ和微信通知</string>
+     <string name="accessibility_stop">红包服务中断,请手动重启</string>
+     <string name="accessibility_start">红包服务已开启</string>
+     <string name="tips">提示</string>
+     <string name="no_mobile_qq">检测到当前手机尚未安装QQ,是否继续?</string>
+     <string name="no_mobile_wechat">检测到当前手机尚未安装微信,是否继续?</string>
+     <string name="no_apk">未安装应用会导致服务无法正常使用</string>
+     <string name="to_open_accessibility">开启红包服务</string>
+     <string name="text">此应用模拟人工抢红包，无毒，不收集隐私。</string>
+</resources>
